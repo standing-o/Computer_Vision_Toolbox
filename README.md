@@ -11,5 +11,7 @@
 |5|**Image De-Noising**|---|
 
 ## Reference
+```
 [1] Jan Erik Solem,『Programming Computer Vision with Python Tools and Algorithms for analyzing images』  
 License file for his code here: https://github.com/jesolem/PCV/blob/master/LICENSE.txt
+```
