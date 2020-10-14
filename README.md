@@ -4,7 +4,7 @@
 ## 1. Basic Image Processing
 |No.|Title|Contents|
 |------|---|---|
-|1|**PIL** (Python Imaging Library)|Converting, Thumbnails, Copy and Paste, Resize and Rotate|
+|1|**PIL**|Converting, Thumbnails, Copy and Paste, Resize and Rotate|
 |2|**Matplotlib**|Plotting, Contours, Histograms|
 |3|**Numpy**|Array, Transforms, Resize, **Histogram Equalization**, Averiging, **PCA**, Pickle|
 |4|**SciPy**|Blurring, Derivatives, Morphology|
