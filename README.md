@@ -1,5 +1,5 @@
 # Computer Vision (20200905 ~ )  
-- Computer vision toolbox with python tools and algorithms.  
+- Computer vision toolbox with python tools and algorithms   
 
 ## 1. Basic Image Processing
 |No.|Title|Contents|
