@@ -1,5 +1,6 @@
-# Computer Vision (20200905 ~ )  
+# Computer Vision
 - Computer vision toolbox with python tools and algorithms   
+- Sep. 5, 2020 ~ Present
 
 ## 1. Basic Image Processing
 |No.|Title|Contents|
